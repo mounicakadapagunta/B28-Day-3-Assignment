@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Mounica Kadapagunta",
+    "label": "Social media statergist",
+    "image": "",
+    "summary": "Responsible for planning, developing and implementing company's overall social media strategy in order to support and improve online presence and the overall digital marketing efforts. ",
+    "email": "mounicakadapagunta13@gmail.com",
+    "location": {
+      "city": "Chittoor",
+      "countryCode": "India"
+    },
+    "profiles": [
+      {
+        "username": "mounicareddi",
+        "url": "https://twitter.com/mounicareddi",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/mounicakadapagunta",
+        "username": "mounicakadapagunta",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2017",
+      "startDate": "2013",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelors",
+      "institution": "JNTU Kakinada"
+    },
+    {
+      "endDate": "2013",
+      "startDate": "2011",
+      "area": "intermediate",
+      "studyType": "Board of intermediate",
+      "institution": "The Narayana group of institutions"
+    }
+  ],
+  "references": [
+    {
+      "reference": " She is incredibly smart, not just at work but about everything from arts, crafts and photography. mounica is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have her on your team.",
+      "name": "Raavish Rana , Regional Manager, Whitevox"
+    }
+  ],
+  "skills": [
+    {"socialmedia":"twitter,facebook,instagram,koo,youtube",
+     "campain":"active member to run various occational campains"
+    
+    }    
+  ],
+ 
+  "work": [
+    {
+      "summary": "Planned, developed and implemented company's overall social media strategy in order to support and improve online presence and the overall digital marketing efforts.",
+      "website": "https://www.whitevox.com/",
+      "name": "whitevox",
+      "location": "Noida",
+      "position": "Social Media Statergist",
+      "startDate": "2020"
+      
+    },
+    {
+      "summary":  "Hires, trains, motivates and monitors the performance of all body shop employees. Prepares and administers an annual operating budget for the body shop. Directs and schedules the work of all body shop employees. Establishes and maintains good working relationships with insurance adjusters.",
+      "website": "https://www.hyundai.com/",
+      "name": "Hyundai",
+      "location": "Banglore",
+      "position": "Body Shop Manager",
+      "endDate":"2020",
+      "startDate": "2019"
+    },
+    {
+      "summary":  "serving customers, maintaining inventories, training new employees, supervising staff, conducting meetings, and assigning tasks.",
+      "website": "https://www.royalenfield.com/",
+      "name": "Royal Enfield",
+      "location": "Banglore",
+      "position": "Floor Manager",
+      "endDate":"2019",
+      "startDate": "2017"
+    }
+    
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Bike Riding"
+    },
+    {
+      "name": "Reading "
+    },
+    {
+      "name": "Arts, Crafts and Photography"
+    }
+  ]
+}
